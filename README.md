@@ -1,3 +1,5 @@
+Neural NEtwork lectures
+
 
 Lesson 1: Building Micrograd
 
