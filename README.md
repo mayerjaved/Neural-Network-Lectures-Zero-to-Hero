@@ -1,4 +1,4 @@
-Neural NEtwork lectures
+Neural Network lectures
 
 
 Lesson 1: Building Micrograd
